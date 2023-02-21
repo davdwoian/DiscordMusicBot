@@ -1,0 +1,10 @@
+// export * as anime_account_sub from './anime_account_sub';
+// export * as anime_day from './anime_day';
+// export * as anime_week from './anime_week';
+// export * as music_fetch from './music_fetch';
+// export * as music_play from './music_play';
+export { default as musicRemove } from './musicRemove';
+export { default as musicSearch} from './musicSearch';
+export { default as musicFetch } from './musicFetch';
+export { default as musicPlay } from './musicPlay';
+export { default as ping } from './ping';
